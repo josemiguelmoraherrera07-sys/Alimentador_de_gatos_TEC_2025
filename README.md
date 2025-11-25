@@ -47,7 +47,7 @@ El código fuente está en la carpeta `firmware/`:
 ![Conexiones2](media/Conexiones2.PNG)
 
 ## Video de Funcionamiento
-![Ver video en YouTube](https://youtu.be/rQNEisE_52g)
+[![Ver video en YouTube]({thumbnail_url})]({[video_url](https://youtu.be/rQNEisE_52g)})
 
 ## Cómo usar
 1. Conecta el hardware según el diagrama.
