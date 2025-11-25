@@ -1,6 +1,6 @@
 # Alimentador_de_gatos_TEC_2025
 
-#Comedero autómatico para gatos - Jose Miguel Mora Herrera
+Comedero autómatico para gatos - Jose Miguel Mora Herrera
 
 ## Descripción
 Este proyecto implementa un comedero inteligente que dispensa alimento solo cuando detecta la presencia del gato mediante un sensor PIR, controlando un servomotor y un LED indicador. Está basado en un ESP32 y simulado en Wokwi.
