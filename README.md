@@ -41,8 +41,9 @@ El código fuente está en la carpeta `firmware/`:
   
 ## Fotos del Proyecto
 ![Componentes](media/Materiales.PNG) -Imagen de los componentes usados en Wokwi
+----------------------------------------------------
 ![Conexiones](media/Conexiones.PNG)
-![Conexiones2](media/Conexiones2.PNG)
+![Conexiones2](media/Conexiones 2.PNG)
 
 ## Video de Funcionamiento
 [![Ver video en YouTube](https://img.youtube.com/vi/TU_ID_DE_VIDEO/hqdefault.jpg)](https://www.youtube.com/watch?v=TU_ID_DE_VIDEO)
