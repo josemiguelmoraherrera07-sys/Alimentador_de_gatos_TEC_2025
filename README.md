@@ -40,10 +40,11 @@ El código fuente está en la carpeta `firmware/`:
 - `sketch.ino` → Programa principal para ESP32.
   
 ## Fotos del Proyecto
-![Componentes](media/Materiales.PNG) -Imagen de los componentes usados en Wokwi
+-Imagen de los componentes usados en Wokwi
+![Componentes](media/Materiales.PNG) 
 ----------------------------------------------------
 ![Conexiones](media/Conexiones.PNG)
-![Conexiones2](media/Conexiones 2.PNG)
+![Conexiones2](media/Conexiones_2.PNG)
 
 ## Video de Funcionamiento
 [![Ver video en YouTube](https://img.youtube.com/vi/TU_ID_DE_VIDEO/hqdefault.jpg)](https://www.youtube.com/watch?v=TU_ID_DE_VIDEO)
